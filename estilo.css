@@ -1,0 +1,31 @@
+
+.container{
+height: 600px;
+width: 600px;
+margin: 0 auto;
+}
+
+
+.square {
+  float: left;
+  width: 30%;
+  padding-bottom:30%;
+  background-color: blue;
+  margin: 1.6%
+}
+body{
+  background-color: #232323
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+#message{
+  color: white;
+  text-align: center;
+}
+#stripe{
+  background-color: white;
+  height: 30px;
+  text-align: center;
+}
